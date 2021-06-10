@@ -2,13 +2,13 @@
 
 **Official Telegram Groups:** 
 
-📣 Announcement Channel \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
+📣 Announcement Channel \([http://t.me/OrionSwapAnn](http://t.me/OrionSwapAnn)\) 
 
-🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
+🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/Orionswap](http://t.me/Orionswap)\) 
 
-🇨🇳 Chinese Chat \([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN)\) 
+🇨🇳 Chinese Chat \([http://t.me/OrionSwap\_CN](http://t.me/OrionSwap_CN)\) 
 
-🇮🇩 Indonesian Chat \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\) 
+🇮🇩 Indonesian Chat \([http://t.me/OrionSwapIndonesia](http://t.me/OrionSwapIndonesia)\) 
 
 😤 Ban Appeal \([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
 
@@ -16,19 +16,19 @@
 
 **Unofficial Telegram Groups:**
 
- 🇻🇳 Vietnamese Community \([http://t.me/PancakeSwapVI](http://t.me/PancakeSwapVI)\) 
+ 🇻🇳 Vietnamese Community \([http://t.me/OrionSwapVI](http://t.me/OrionSwapVI)\) 
 
-🇵🇭 Filipino Community \([http://t.me/Pancakeswap\_Ph](http://t.me/Pancakeswap_Ph)\) 
+🇵🇭 Filipino Community \([http://t.me/Orionswap\_Ph](http://t.me/Orionswap_Ph)\) 
 
-🇪🇸 Spanish Community \([http://t.me/PancakeSwapES](http://t.me/PancakeSwapES)\) 
+🇪🇸 Spanish Community \([http://t.me/OrionSwapES](http://t.me/OrionSwapES)\) 
 
-🇷🇺 Russian Community \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
+🇷🇺 Russian Community \([http://t.me/Orionswap\_ru](http://t.me/Orionswap_ru)\) 
 
-🇹🇷 Turkish Community \([http://t.me/PancakeSwapTurkish](http://t.me/PancakeSwapTurkish)\)
+🇹🇷 Turkish Community \([http://t.me/OrionSwapTurkish](http://t.me/OrionSwapTurkish)\)
 
- 🇩🇪 Deutsche Community \([http://t.me/pancakeswapgerman](http://t.me/pancakeswapgerman)\)
+ 🇩🇪 Deutsche Community \([http://t.me/Orionswapgerman](http://t.me/Orionswapgerman)\)
 
- 🇧🇷 Portuguese Community \([http://t.me/PancakeSwapBR](http://t.me/PancakeSwapBR)\) 
+ 🇧🇷 Portuguese Community \([http://t.me/OrionSwapBR](http://t.me/OrionSwapBR)\) 
 
-🇦🇪 Arabic Community \([http://t.me/PancakeSwapArabic](http://t.me/PancakeSwapArabic)\)
+🇦🇪 Arabic Community \([http://t.me/OrionSwapArabic](http://t.me/OrionSwapArabic)\)
 

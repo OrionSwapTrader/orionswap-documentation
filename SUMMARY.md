@@ -1,27 +1,24 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
-* [FAQ](faq.md)
+* [Orion Swap Intro](README.md)
 
 ## Core Products
 
-* [Exchange](core-products/pancakeswap-exchange.md)
-* [Pools](core-products/pancakeswap-pools.md)
+* [Swap](core-products/Orionswap-swap.md)
+* [Pools](core-products/Orionswap-pools.md)
 * [Farms](core-products/farms.md)
-* [Voting](core-products/voting.md)
-* [Analytics](core-products/pancakeswap-analytics.md)
+
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+* [Starfield Basics](tokenomics/untitled.md)
+* [Galaxy \(Staking\)](tokenomics/syrup.md)
 
 ## Guides
 
 * [Binance Academy Guide](guides/binance-academy-guide.md)
-* [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [How to use MetaMask on PancakeSwap](guides/untitled.md)
+* [How to use OrionSwap with Trust Wallet](guides/how-to-use-Orionswap-with-trust-wallet.md)
+* [How to use MetaMask on OrionSwap](guides/untitled.md)
 
 ## Community / Social
 
