@@ -1,7 +1,5 @@
 # Starfield Basics
 
-\*\*\*\*
-
 ![](../.gitbook/assets/group-501.png)
 
 \*\*\*\*
@@ -14,13 +12,13 @@
 
 **Emission rate:**
 
-* **Reward per block -**  40 CAKE                                                                                                       _\*\*_
+* **Reward per block -**  40 CAKE                                                                                                       
 * **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 CAKE per day
 
 **Distribution:**
 
-* **Farmers -** 75% of the rewards per block \(30 CAKE\)
-* **SYRUP holders -** 25% of the rewards per block \(10 CAKE\)
-* **Farmers daily -** 900,000 CAKE \(based on 30k blocks per day\)
-* **SYRUP holders daily -** 300,000 CAKE \(based on 30k blocks per day\)
+* **Farming Pools -** 75% of the rewards per block \(30 CAKE\)
+* **Galaxy Pools -** 25% of the rewards per block \(10 CAKE\)
+* **Farming Pools Daily -** 900,000 CAKE \(based on 30k blocks per day\)
+* **Galaxy Pools Daily -** 300,000 CAKE \(based on 30k blocks per day\)
 
