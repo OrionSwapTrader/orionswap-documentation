@@ -6,10 +6,11 @@ description: It just keeps getting better!
 
 #### Initial Launch
 
-* [ ] Full site launch for Binance Smart Chain
-* [ ] Create initial Farming Pools
-* [ ] Create initial Galaxy Pools
-* [ ] Audits and Certifications
+* [x] Full site launch for Binance Smart Chain
+* [x] Create initial Farming Pools
+* [x] Create initial Galaxy Pools
+* [ ] Transfer MasterChef to Timelock
+* [ ] Audits and Certifications \(Pending\)
 
 #### Fast Follows
 

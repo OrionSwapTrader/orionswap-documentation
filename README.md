@@ -1,6 +1,6 @@
 # Orion Swap Intro
 
-### OrionSwap is the home of Starfield collectors and the best Automated Market Maker in the world! That's a serious statement and we stand behind it. Just keep reading to see why we are the best!
+### We are OrionSwap! Hunters of Starfields and explorers of Galaxy Pools! Come join the newest and most exciting AMM on the Binance Smart Chain!
 
 ## ↔️ Trade
 
@@ -34,5 +34,19 @@ No yield farm? No problem. Even if your trading pair isn’t supported on the Fa
 
 All of our contracts were forked from PancakeSwap, which means they are battle tested. We made the minimal changes necessary for our purposes and fixed some major issues in the original contracts. Certifications and Audits are pending.
 
-OrionPair Diff OrionRouter Diff MasterChef Diff
+Check out our diffs to see exactly what we changed. For our factory and our router contracts, we only changed strings to Orion. Our pair contract had a bunch of name changes but we also removed flashloan logic and updated our fee structure. 
+
+#### Pair Contract Diff:
+
+{% embed url="https://www.diffchecker.com/XHIzJLYh" %}
+
+#### Factory Contract Diff:
+
+{% embed url="https://www.diffchecker.com/CRKHg85a" %}
+
+#### Router Contract Diff:
+
+{% embed url="https://www.diffchecker.com/iCZwk0lu" %}
+
+
 

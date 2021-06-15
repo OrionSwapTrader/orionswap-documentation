@@ -1,8 +1,6 @@
 # Starfield Basics
 
-![](../.gitbook/assets/group-501.png)
-
-\*\*\*\*
+![](../.gitbook/assets/starfield.svg)
 
 **Token:** Starfield
 
@@ -12,13 +10,13 @@
 
 **Emission rate:**
 
-* **Reward per block -**  40 CAKE                                                                                                       
-* **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 CAKE per day
+* **Reward per block -**  75 Starfield                                                                                                       
+* **Daily emission \(Based on 28k blocks per day\) -**  2,100,000 Starfields per day
 
 **Distribution:**
 
-* **Farming Pools -** 75% of the rewards per block \(30 CAKE\)
-* **Galaxy Pools -** 25% of the rewards per block \(10 CAKE\)
-* **Farming Pools Daily -** 900,000 CAKE \(based on 30k blocks per day\)
-* **Galaxy Pools Daily -** 300,000 CAKE \(based on 30k blocks per day\)
+* **Farming Pools -** 68% of the rewards per block \(51 Starfields\)
+* **Galaxy Pools -** 32% of the rewards per block \(24 Starfields\)
+* **Farming Pools Daily -** 1,428,000 Starfields \(based on 28k blocks per day\)
+* **Galaxy Pools Daily -** 672,000 Starfields \(based on 28k blocks per day\)
 
