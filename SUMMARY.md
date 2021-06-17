@@ -2,6 +2,7 @@
 
 * [Orion Swap Intro](README.md)
 * [Roadmap](roadmap.md)
+* [Contracts](contracts.md)
 
 ## Core Products
 
@@ -12,8 +13,4 @@
 ## Tokenomics
 
 * [Starfield Basics](tokenomics/untitled.md)
-
----
-
-* [Contracts](contracts.md)
 
