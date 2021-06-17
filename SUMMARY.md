@@ -13,3 +13,7 @@
 
 * [Starfield Basics](tokenomics/untitled.md)
 
+---
+
+* [Contracts](contracts.md)
+
