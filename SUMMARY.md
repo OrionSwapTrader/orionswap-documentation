@@ -12,5 +12,5 @@
 
 ## Tokenomics
 
-* [Starfield Basics](tokenomics/untitled.md)
+* [Starfield Basics](tokenomics/starfield.md)
 
