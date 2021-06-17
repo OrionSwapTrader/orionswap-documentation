@@ -11,6 +11,7 @@ description: It just keeps getting better!
 * [x] Create initial Galaxy Pools
 * [ ] Transfer MasterChef to Timelock
 * [ ] Audits and Certifications \(Pending\)
+* [ ] Dev pool contract for minting Starfield and burning
 
 #### Fast Follows
 
