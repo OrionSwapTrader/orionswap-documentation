@@ -4,7 +4,7 @@
 
 **Token:** Starfield
 
-**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/address/0xaB5af03653349a052B49f167f4C709599C5f3844)
+**Contract Address:** [https://bscscan.com/address/0xaB5af03653349a052B49f167f4C709599C5f3844](https://bscscan.com/address/0xaB5af03653349a052B49f167f4C709599C5f3844)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
