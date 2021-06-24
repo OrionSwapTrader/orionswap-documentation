@@ -18,6 +18,7 @@ description: It just keeps getting better!
 * [ ] Revamp Documentation and Guided Walkthroughs
 * [ ] Update multiplier columns to be easier to understand \(Starfield per block\)
 * [ ] Add $ value to LP token wherever it is displayed
+* [ ] Autocompounding pools
 * [ ] Voting
 * [ ] AMM Analytics
 * [ ] Ethereum chain support \(Polygon?\)
