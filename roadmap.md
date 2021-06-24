@@ -9,16 +9,18 @@ description: It just keeps getting better!
 * [x] Full site launch for Binance Smart Chain
 * [x] Create initial Farming Pools
 * [x] Create initial Galaxy Pools
-* [ ] Transfer MasterChef to Timelock
-* [ ] Audits and Certifications \(Pending\)
+* [x] Transfer MasterChef to Timelock
+* [ ] Audits and Certifications \(RugDoc complete, TechRate pending\)
 * [ ] Dev pool contract for minting Starfield and burning
 
 #### Fast Follows
 
 * [ ] Revamp Documentation and Guided Walkthroughs
+* [ ] Update multiplier columns to be easier to understand \(Starfield per block\)
+* [ ] Add $ value to LP token wherever it is displayed
 * [ ] Voting
 * [ ] AMM Analytics
-* [ ] Ethereum chain support
+* [ ] Ethereum chain support \(Polygon?\)
 * [ ] Governance contracts
 
 
