@@ -6,6 +6,8 @@ OrionFactory:[ https://bscscan.com/address/0x15Ac679f35e1aD6B34f69d1F8113124C5ca
 
 MasterChef: [https://bscscan.com/address/0xFc4D8B845931cBBCa2FE545a874022ebAC1d0b8B](https://bscscan.com/address/0xFc4D8B845931cBBCa2FE545a874022ebAC1d0b8B)
 
+Timelock \(MasterChef owner\): [https://bscscan.com/address/0x9e6e92a1fe117375bb6950db44b4e34e94e7cc24](https://bscscan.com/address/0x9e6e92a1fe117375bb6950db44b4e34e94e7cc24)
+
 Starfield Token: [https://bscscan.com/address/0xaB5af03653349a052B49f167f4C709599C5f3844](https://bscscan.com/address/0xaB5af03653349a052B49f167f4C709599C5f3844)
 
 OrionRouter: [https://testnet.bscscan.com/address/0x11ac743b36639f36a23c1f5E5133Fdc9bb7c5E82](https://testnet.bscscan.com/address/0x11ac743b36639f36a23c1f5E5133Fdc9bb7c5E82)
