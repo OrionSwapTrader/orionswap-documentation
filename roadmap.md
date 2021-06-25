@@ -12,7 +12,7 @@ description: It just keeps getting better!
 * [x] Transfer MasterChef to Timelock
 * [ ] Audits and Certifications \(RugDoc complete, TechRate dropping in next 24 hours\)
 * [ ] Marketing, Marketing, and some more... You guessed it, marketing!
-* [ ] Dev pool contract for minting Starfield and burning
+* [ ] Dev pool contract burning Starfield. Starfield goes in and has no way to come out. Much better than a wallet. 
 
 #### Fast Follows
 
