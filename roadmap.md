@@ -10,7 +10,8 @@ description: It just keeps getting better!
 * [x] Create initial Farming Pools
 * [x] Create initial Galaxy Pools
 * [x] Transfer MasterChef to Timelock
-* [ ] Audits and Certifications \(RugDoc complete, TechRate pending\)
+* [ ] Audits and Certifications \(RugDoc complete, TechRate dropping in next 24 hours\)
+* [ ] Marketing, Marketing, and some more... You guessed it, marketing!
 * [ ] Dev pool contract for minting Starfield and burning
 
 #### Fast Follows
