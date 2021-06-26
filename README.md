@@ -2,6 +2,10 @@
 
 ### We are OrionSwap! Hunters of Starfields and explorers of Galaxy Pools! Come join the newest and most exciting AMM on the Binance Smart Chain!
 
+[TechRate Audit Results](https://github.com/TechRate/Smart-Contract-Audits/blob/main/Orion%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
+
+## 
+
 ## ↔️ Trade
 
 > Instantly swap crypto tokens: no registration or account needed.
