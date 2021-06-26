@@ -4,8 +4,6 @@
 
 [TechRate Audit Results](https://github.com/TechRate/Smart-Contract-Audits/blob/main/Orion%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
 
-## 
-
 ## ↔️ Trade
 
 > Instantly swap crypto tokens: no registration or account needed.
