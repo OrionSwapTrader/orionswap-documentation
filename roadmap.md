@@ -14,7 +14,7 @@ description: It just keeps getting better!
 * [ ] BSCSCan token information update \(still waiting on them to approve....\)
 * [ ] Coingecko Listing
 * [ ] CoinMarketCap Listing
-* [ ] Audits and Certifications \(RugDoc complete, TechRate dropping in next 24 hours\)
+* [x] Audits and Certifications \(RugDoc complete, TechRate dropping in next 24 hours\)
 * [ ] Marketing, Marketing, and some more... You guessed it, marketing!
 
 #### Fast Follows
