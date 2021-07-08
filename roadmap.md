@@ -20,7 +20,7 @@ description: It just keeps getting better!
 #### Fast Follows
 
 * [x] Update multiplier columns to be easier to understand \(Starfield per block\)
-* [ ] Add $ value to LP token wherever it is displayed
+* [ ] Add $ value to LP token wherever it is displayed \(shown in farms. Need to add to add/remove liquidity pages\)
 * [ ] Autocompounding pools
 * [ ] Revamp Documentation and Guided Walkthroughs
 * [ ] Dev pool contract burning Starfield. Starfield goes in and has no way to come out. Much better than a wallet. 
